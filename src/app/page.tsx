@@ -456,7 +456,7 @@ if (submitted) {
       Please reply before <strong>July 02, 2025</strong>
     </p>
     <p className="font-serif italic text-center mb-8">
-      Number of persons: 2
+      Number of persons: 3
     </p>
 
     {/* Question */}
